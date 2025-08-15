@@ -12,9 +12,6 @@ void main() {
       print("Status: $status");
     } else {
       print("Invalid input. Please enter a valid number.");
-    }
-  } else {
-    print("No input received.");
   }
 }
 
@@ -25,5 +22,6 @@ Status: Adult
 
 Please input your age: 14
 Status: Minor
+
 
 
